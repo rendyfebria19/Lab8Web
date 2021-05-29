@@ -13,7 +13,6 @@
 
 3. membuat file baru dan melakukan koneksi pada php![5a](https://user-images.githubusercontent.com/59887134/120070316-08d8bc00-c0b4-11eb-8412-93b79025b9fa.png)
 - koneksi berhasil terhubung pada browser
-![5b](https://user-images.githubusercontent.com/59887134/120070715-1bec8b80-c0b6-11eb-990f-ff30d01591d3.png)
 
 4. membuat index pada php ![6a](https://user-images.githubusercontent.com/59887134/120070370-5ce3a080-c0b4-11eb-949c-80d8866b5743.png)
 - index berhasil ditambahkan dan menampilkan data barang![6b](https://user-images.githubusercontent.com/59887134/120070385-784eab80-c0b4-11eb-9b6e-af7c5ab1798f.png)
