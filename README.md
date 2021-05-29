@@ -5,7 +5,7 @@
 - Kelas : TI 19.A.3
 
 # Laporan Praktikum
-1. Membuat tabel data_barang pada phpmyadmin yang berisikan id_barang, kategori, nama, gambar dll.![2](https://user-images.githubusercontent.com/59887134/120070008-045fd380-c0b3-11eb-98b6-242c824cc92d.png)
+1. Membuat tabel data_barang pada phpmyadmin yang berisikan id_barang, kategori, nama, gambar dll.![2](https://user-images.githubusercontent.com/59887134/120070525-3114ea80-c0b5-11eb-9031-3ae8d2c1a8c7.png)
 - data barang berhasil ditampilkan pada database latihal1![1](https://user-images.githubusercontent.com/59887134/120070034-3113eb00-c0b3-11eb-86de-a31d70acf94d.png)
 
 2. menambahkan data pada data barang![3](https://user-images.githubusercontent.com/59887134/120070142-9ff14400-c0b3-11eb-8dc5-0d47c2c5ec1f.png)
