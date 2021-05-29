@@ -8,7 +8,7 @@
 1. Membuat tabel data_barang pada phpmyadmin yang berisikan id_barang, kategori, nama, gambar dll.![2](https://user-images.githubusercontent.com/59887134/120070525-3114ea80-c0b5-11eb-9031-3ae8d2c1a8c7.png)
 - data barang berhasil ditampilkan pada database latihal1![1](https://user-images.githubusercontent.com/59887134/120070034-3113eb00-c0b3-11eb-86de-a31d70acf94d.png)
 
-2. menambahkan data pada data barang![3](https://user-images.githubusercontent.com/59887134/120070142-9ff14400-c0b3-11eb-8dc5-0d47c2c5ec1f.png)
+2. menambahkan data pada data barang![3](https://user-images.githubusercontent.com/59887134/120070594-7fc28480-c0b5-11eb-9c7b-96feb55386a5.png)
 - data berhasil ditambahkan pada phpmyadmin![4](https://user-images.githubusercontent.com/59887134/120070264-d333d300-c0b3-11eb-835c-d5b547d77093.png)
 
 3. membuat file baru dan melakukan koneksi pada php![5a](https://user-images.githubusercontent.com/59887134/120070316-08d8bc00-c0b4-11eb-8412-93b79025b9fa.png)
