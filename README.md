@@ -22,4 +22,9 @@
 ![7b](https://user-images.githubusercontent.com/59887134/120070425-b2b84880-c0b4-11eb-919a-022f50b37e2e.png)
 - form tambah barang berhasil dijalankan![7c](https://user-images.githubusercontent.com/59887134/120070453-d3809e00-c0b4-11eb-8058-c9e15ccc59a2.png)
 
-6
+6. selanjutnya Mengubah Data (Update), dan membuat file baru![8a](https://user-images.githubusercontent.com/59887134/120070885-e1cfb980-c0b6-11eb-8947-6b64641a218f.png)
+- ubah barang berhasil dijalankan pada browser ![8b](https://user-images.githubusercontent.com/59887134/120070913-01ff7880-c0b7-11eb-9d0e-10b49dcddd13.png)
+
+7. melakukan Menghapus Data (Delete) pada database![9a](https://user-images.githubusercontent.com/59887134/120070939-20fe0a80-c0b7-11eb-83d0-0215499a3af4.png)
+- menghapus data barang sesuai id yang ada ![9b](https://user-images.githubusercontent.com/59887134/120070960-2e1af980-c0b7-11eb-808b-417aca44419f.png)
+
