@@ -12,7 +12,7 @@
 - data berhasil ditambahkan pada phpmyadmin![4](https://user-images.githubusercontent.com/59887134/120070264-d333d300-c0b3-11eb-835c-d5b547d77093.png)
 
 3. membuat file baru dan melakukan koneksi pada php![5a](https://user-images.githubusercontent.com/59887134/120070316-08d8bc00-c0b4-11eb-8412-93b79025b9fa.png)
-- selanjutnya koneksi berhasil terhubung![5b](https://user-images.githubusercontent.com/59887134/120070330-27d74e00-c0b4-11eb-9460-093069f4d283.png)
+- selanjutnya koneksi berhasil terhubung![5b](https://user-images.githubusercontent.com/59887134/120070645-c0220280-c0b5-11eb-92a9-5cae303e828a.png)
 
 4. membuat index pada php ![6a](https://user-images.githubusercontent.com/59887134/120070370-5ce3a080-c0b4-11eb-949c-80d8866b5743.png)
 - index berhasil ditambahkan dan menampilkan data barang![6b](https://user-images.githubusercontent.com/59887134/120070385-784eab80-c0b4-11eb-9b6e-af7c5ab1798f.png)
