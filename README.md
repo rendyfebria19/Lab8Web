@@ -20,5 +20,4 @@
 
 5. selanjutnya membuat menambahkan data (create)![7a](https://user-images.githubusercontent.com/59887134/120070417-a8964a00-c0b4-11eb-9c2f-f7b6d5117a90.png)
 ![7b](https://user-images.githubusercontent.com/59887134/120070425-b2b84880-c0b4-11eb-919a-022f50b37e2e.png)
-- form tambah barang berhasil dijalan![7c](https://user-images.githubusercontent.com/59887134/120070453-d3809e00-c0b4-11eb-8058-c9e15ccc59a2.png)
-kan 
+- form tambah barang berhasil dijalankan![7c](https://user-images.githubusercontent.com/59887134/120070453-d3809e00-c0b4-11eb-8058-c9e15ccc59a2.png)
